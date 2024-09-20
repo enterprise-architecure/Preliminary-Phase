@@ -4,3 +4,9 @@ Determine the Architecture Capability desired by the organization:
 - Identify and scope the elements of the enterprise organizations affected by the Architecture Capability
 - Identify the established frameworks, methods, and processes that intersect with the Architecture Capability
 - Establish Capability Maturity target
+
+Establish the Architecture Capability:
+- Define and establish the Organizational Model for Enterprise Architecture
+- Define and establish the detailed process and resources for Architecture Governance
+- Select and implement tools that support the Architecture Capability
+- Define the Architecture Principles
