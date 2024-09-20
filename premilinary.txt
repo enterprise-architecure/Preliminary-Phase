@@ -1,0 +1,6 @@
+OBJECTTIVES
+Determine the Architecture Capability desired by the organization:
+- Review the organizational context for conducting Enterprise Architecture
+- Identify and scope the elements of the enterprise organizations affected by the Architecture Capability
+- Identify the established frameworks, methods, and processes that intersect with the Architecture Capability
+- Establish Capability Maturity target
