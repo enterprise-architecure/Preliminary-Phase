@@ -17,3 +17,19 @@ STEPS
 - Identify and establish Architecture Principles
 - Tailor the TOGAF framework and, if any, other selected architecture frameworks
 - Develop strategy and implementation plans for tools and techniques
+
+INPUTS
+- The TOGAF Library
+- Other architecture framework(s)
+- Board strategies, business plans, business strategy, IT Strategy, business principles, business goals, and business drivers
+- Major frameworks operating in the business
+- Governance and legal frameworks
+- Architecture Capability
+- Partnership and contract agreements
+- Existing organizational model for Enterprise Architecture
+- Existing architecture framework, if any, including:
+  - Architecture method
+  - Architecture content
+  - Configured and deployed tools
+  - Architecture Principles
+  - Architecture Repository
